@@ -1,1 +1,2 @@
-# student_employability
+# Student_employability
+This project is a machine learning-based web application built using Gradio that predicts a student's employability based on various attributes such as general appearance, manner of speaking, physical condition, mental alertness, self-confidence, ability to present ideas, and communication skills.title: Student Employable emoji: 🌍 colorFrom: indigo colorTo: blue sdk: gradio sdk_version: 5.20.1 app_file: app.py pinned: false
